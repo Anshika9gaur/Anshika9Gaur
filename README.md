@@ -12,8 +12,8 @@
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/anshika-gaur-3132b4315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshika" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ankit_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Anshika" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/MbClkg2I29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/anshikagdbtx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Anshika" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/MbClkg2I29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anshika" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
